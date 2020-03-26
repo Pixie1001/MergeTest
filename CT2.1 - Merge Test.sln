@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CT2.1 - Merge Test", "CT2.1 - Merge Test\CT2.1 - Merge Test.csproj", "{D7B0D2B6-0674-4B61-8856-20462BAA7D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CT2.1 - Merge Test", "MergeTest\CT2.1 - Merge Test.csproj", "{00AD0571-8E07-412C-B89F-E1670D2005DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7B0D2B6-0674-4B61-8856-20462BAA7D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7B0D2B6-0674-4B61-8856-20462BAA7D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7B0D2B6-0674-4B61-8856-20462BAA7D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7B0D2B6-0674-4B61-8856-20462BAA7D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AD0571-8E07-412C-B89F-E1670D2005DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AD0571-8E07-412C-B89F-E1670D2005DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AD0571-8E07-412C-B89F-E1670D2005DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AD0571-8E07-412C-B89F-E1670D2005DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
