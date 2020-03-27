@@ -5,7 +5,7 @@ namespace MergeTest {
     class Program {
 
         static void Main(string[] args) {
-            Console.WriteLine("Cya Mundo!");
+            Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
     }
